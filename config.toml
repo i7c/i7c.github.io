@@ -1,7 +1,7 @@
 baseURL = 'http://blog.i7c.space/'
 languageCode = 'en-us'
 title = "Constantin's Braindump"
-theme = 'binario'
+theme = 'hugo-theme-dimension'
 
 [author]
 name = 'Constantin Weisser'
