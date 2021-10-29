@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Constantin&#39;s Braindump</title>
+    <link>http://blog.i7c.space/posts/</link>
+    <description>Recent content in Posts on Constantin&#39;s Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Oct 2021 16:09:20 -0300</lastBuildDate><atom:link href="http://blog.i7c.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About learning new things</title>
+      <link>http://blog.i7c.space/posts/202111029-first-post/</link>
+      <pubDate>Fri, 29 Oct 2021 16:09:20 -0300</pubDate>
+      
+      <guid>http://blog.i7c.space/posts/202111029-first-post/</guid>
+      <description>Every start is hard.</description>
+    </item>
+    
+  </channel>
+</rss>

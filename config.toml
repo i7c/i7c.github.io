@@ -1,4 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://blog.i7c.space/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'hello-friend-ng'
+title = "Constantin's Braindump"
+theme = 'binario'
+
+[author]
+name = 'Constantin Weisser'
